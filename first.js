@@ -1,0 +1,1 @@
+console.log ("Isreal will come to an end");
